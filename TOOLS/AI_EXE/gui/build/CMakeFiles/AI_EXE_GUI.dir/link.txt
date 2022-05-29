@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/AI_EXE_GUI.dir/main.cc.o  -o AI_EXE_GUI 

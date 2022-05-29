@@ -1,0 +1,6 @@
+{
+    "ProjectName": "AlphNull_1",
+    "ProjectKind": "Basic-Conv",
+    "ProjectFolder": "AlphNull_1",
+    "ProjectActionFiles": ["action.create.layout.json"]
+}

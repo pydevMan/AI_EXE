@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/natemcafee/AI_EXE_RS/AI_EXE'
+make: Leaving directory '/home/natemcafee/AI_EXE_RS/AI_EXE'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

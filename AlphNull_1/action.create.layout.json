@@ -1,0 +1,8 @@
+{
+    "for": "AlphNull_1",
+    "action": "new_test_source",
+    "inputs": 10,
+    "layers": 10,
+    "max-matrix": [10,20],
+    "outputs": 10
+}

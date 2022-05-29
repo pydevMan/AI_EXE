@@ -1,0 +1,1 @@
+/usr/bin/c++  -D_REETRANT -Wall -Wextra -pedantic -Wno-long-long -ggdb -O0 -g   CMakeFiles/CL_RUNNER.dir/main.cc.o CMakeFiles/CL_RUNNER.dir/matrix/matrix.cc.o CMakeFiles/CL_RUNNER.dir/matrix/setup_opencl.cc.o  -o CL_RUNNER 

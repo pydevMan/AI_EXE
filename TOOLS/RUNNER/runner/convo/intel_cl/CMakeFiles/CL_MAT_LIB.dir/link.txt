@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -D_REETRANT -Wall -Wextra -pedantic -Wno-long-long -ggdb -O0 -g  -shared -Wl,-soname,libCL_MAT_LIB.so -o libCL_MAT_LIB.so CMakeFiles/CL_MAT_LIB.dir/matrix/matrix.cc.o CMakeFiles/CL_MAT_LIB.dir/matrix/setup_opencl.cc.o 
