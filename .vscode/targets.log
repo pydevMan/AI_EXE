@@ -1,4 +1,6 @@
 make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+
 # GNU Make 4.2.1
 # Built for x86_64-pc-linux-gnu
 # Copyright (C) 1988-2016 Free Software Foundation, Inc.
@@ -6,7 +8,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun May 29 15:46:41 2022
+# Make data base, printed on Sun May 29 19:10:10 2022
 
 # Variables
 
@@ -123,7 +125,7 @@ XDG_SESSION_DESKTOP = ubuntu
 # environment
 SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 45447
+GIO_LAUNCHED_DESKTOP_FILE_PID = 51652
 # automatic
 %F = $(notdir $%)
 # environment
@@ -187,7 +189,7 @@ SHLVL = 0
 # environment
 GNOME_SHELL_SESSION_MODE = ubuntu
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-8f4172c1-1858-42f4-abd0-d43dc81e2660.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-d085fc9c-dc07-41a1-be91-050cb44c8b79.sock
 # default
 MAKE_VERSION := 4.2.1
 # environment
@@ -257,7 +259,7 @@ GJS_DEBUG_OUTPUT = stderr
 # environment
 LANG = C
 # environment
-VSCODE_PID = 45499
+VSCODE_PID = 51701
 # variable set hash-table stats:
 # Load=124/1024=12%, Rehash=0, Collisions=19/146=13%
 
@@ -270,6 +272,7 @@ VSCODE_PID = 45499
 # . (device 2050, inode 17170904): 13 files, no impossibilities.
 
 # 13 files, no impossibilities in 1 directories.
+ 
 
 # Implicit Rules
 
@@ -294,9 +297,6 @@ Makefile:
 # Not a target:
 makefile:
 #  Implicit rule search has been done.
- 
-make: *** No rule to make target 'all'.  Stop.
-
 #  File does not exist.
 #  File has been updated.
 #  Failed to be updated.
@@ -328,6 +328,6 @@ GNUmakefile:
 # strcache performance: lookups = 24 / hit rate = 12%
 # hash-table stats:
 # Load=21/8192=0%, Rehash=0, Collisions=1/24=4%
-# Finished Make data base on Sun May 29 15:46:41 2022
+# Finished Make data base on Sun May 29 19:10:10 2022
 
  
