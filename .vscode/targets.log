@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun May 29 19:10:10 2022
+# Make data base, printed on Mon May 30 14:24:39 2022
 
 # Variables
 
@@ -125,7 +125,7 @@ XDG_SESSION_DESKTOP = ubuntu
 # environment
 SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 51652
+GIO_LAUNCHED_DESKTOP_FILE_PID = 79783
 # automatic
 %F = $(notdir $%)
 # environment
@@ -189,7 +189,7 @@ SHLVL = 0
 # environment
 GNOME_SHELL_SESSION_MODE = ubuntu
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-d085fc9c-dc07-41a1-be91-050cb44c8b79.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-b50801bc-ef2d-4776-9ae5-157f0221ff70.sock
 # default
 MAKE_VERSION := 4.2.1
 # environment
@@ -259,7 +259,7 @@ GJS_DEBUG_OUTPUT = stderr
 # environment
 LANG = C
 # environment
-VSCODE_PID = 51701
+VSCODE_PID = 79835
 # variable set hash-table stats:
 # Load=124/1024=12%, Rehash=0, Collisions=19/146=13%
 
@@ -269,10 +269,9 @@ VSCODE_PID = 51701
 
 # Directories
 
-# . (device 2050, inode 17170904): 13 files, no impossibilities.
+# . (device 2050, inode 17170904): 14 files, no impossibilities.
 
-# 13 files, no impossibilities in 1 directories.
- 
+# 14 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -281,6 +280,7 @@ VSCODE_PID = 51701
 # Files
 
 # Not a target:
+ 
 all:
 #  Command line target.
 #  Implicit rule search has been done.
@@ -322,12 +322,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 21 / storage = 216 B / avg = 10 B
-# current buf: size = 8162 B / used = 216 B / count = 21 / avg = 10 B
+# strcache buffers: 1 (0) / strings = 22 / storage = 226 B / avg = 10 B
+# current buf: size = 8162 B / used = 226 B / count = 22 / avg = 10 B
 
-# strcache performance: lookups = 24 / hit rate = 12%
+# strcache performance: lookups = 25 / hit rate = 12%
 # hash-table stats:
-# Load=21/8192=0%, Rehash=0, Collisions=1/24=4%
-# Finished Make data base on Sun May 29 19:10:10 2022
+# Load=22/8192=0%, Rehash=0, Collisions=1/25=4%
+# Finished Make data base on Mon May 30 14:24:39 2022
 
  

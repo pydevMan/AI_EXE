@@ -78,14 +78,15 @@ func toBytes(num uint64) []byte {
 }
 
 func encodeData(maxHeight, maxWidth, layers, outputs, inputs uint64, outName string) {
+	panic("not defined yet")
 	//size gotten by (m x n) * (c x k) = (m x k)
 
 	//gives the optin to ranspose the input vector as the first input
 	//gives the optin to ranspose the output vector as the last output
-	transposeRes := make([][2]byte, 0)
-	prevSizeVec := [2]uint64{inputs, 1}
-	for i := 0; i < int(layers); i++ {
+	//transposeRes := make([][2]byte, 0)
+	//prevSizeVec := [2]uint64{inputs, 1}
 
-	}
+	//for i := 0; i < int(layers); i++ {
+	//}
 
 }
