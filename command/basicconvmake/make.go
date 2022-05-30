@@ -79,11 +79,10 @@ func toBytes(num uint64) []byte {
 
 func encodeData(maxHeight, maxWidth, layers, outputs, inputs uint64, outName string) {
 	//size gotten by (m x n) * (c x k) = (m x k)
-	//gen := rand.New(rand.NewSource(time.Now().UnixNano()))
-	//sizeof := (2 + layers) * 8
-	//matrixSizes := make([][2]uint64, 0)
-	//{{1},{1}} -> {}
-	transposeRes := make([]bool, 0)
+
+	//gives the optin to ranspose the input vector as the first input
+	//gives the optin to ranspose the output vector as the last output
+	transposeRes := make([][2]byte, 0)
 	prevSizeVec := [2]uint64{inputs, 1}
 	for i := 0; i < int(layers); i++ {
 
