@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon May 30 22:39:24 2022
+# Make data base, printed on Tue May 31 14:16:37 2022
 
 # Variables
 
@@ -123,7 +123,7 @@ XDG_SESSION_DESKTOP = ubuntu
 # environment
 SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 88942
+GIO_LAUNCHED_DESKTOP_FILE_PID = 105747
 # automatic
 %F = $(notdir $%)
 # environment
@@ -187,7 +187,7 @@ SHLVL = 0
 # environment
 GNOME_SHELL_SESSION_MODE = ubuntu
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-44f8faff-730f-4ce2-b2ae-7824a3ae4792.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-bb381bd8-af87-482c-a4f8-2d377afdf172.sock
 # default
 MAKE_VERSION := 4.2.1
 # environment
@@ -257,7 +257,7 @@ GJS_DEBUG_OUTPUT = stderr
 # environment
 LANG = C
 # environment
-VSCODE_PID = 88988
+VSCODE_PID = 105795
 # variable set hash-table stats:
 # Load=123/1024=12%, Rehash=0, Collisions=18/145=12%
 
@@ -280,7 +280,6 @@ VSCODE_PID = 88988
 # Not a target:
 all:
 #  Command line target.
- 
 #  Implicit rule search has been done.
 #  File does not exist.
 #  File has not been updated.
@@ -323,9 +322,10 @@ GNUmakefile:
 # strcache buffers: 1 (0) / strings = 25 / storage = 251 B / avg = 10 B
 # current buf: size = 8162 B / used = 251 B / count = 25 / avg = 10 B
 
+ 
 # strcache performance: lookups = 28 / hit rate = 10%
 # hash-table stats:
 # Load=25/8192=0%, Rehash=0, Collisions=1/28=4%
-# Finished Make data base on Mon May 30 22:39:24 2022
+# Finished Make data base on Tue May 31 14:16:37 2022
 
  
