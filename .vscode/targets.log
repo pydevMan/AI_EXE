@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon May 30 14:24:39 2022
+# Make data base, printed on Mon May 30 22:39:24 2022
 
 # Variables
 
@@ -43,7 +43,7 @@ GDMSESSION = ubuntu
 # environment
 XMODIFIERS = @im=ibus
 # makefile
-CURDIR := /home/natemcafee/AI_EXE_RS
+CURDIR := /home/natemcafee/AI_EXE_RS/AI_EXE
 # makefile
 SHELL = /bin/sh
 # environment
@@ -69,8 +69,6 @@ USERNAME = natemcafee
 # environment
 XDG_DATA_DIRS = /usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
 # environment
-VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
-# environment
 DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
 # environment
 VSCODE_VERBOSE_LOGGING = true
@@ -89,7 +87,7 @@ GSETTINGS_SCHEMA_DIR = /snap/code/97/usr/share/glib-2.0/schemas
 # default
 MAKE_HOST := x86_64-pc-linux-gnu
 # environment
-PATH = /home/natemcafee/sdk/go1.18.2/bin:/home/natemcafee/.local/bin:/home/natemcafee/.cabal/bin:/home/natemcafee/.ghcup/bin:/home/natemcafee/miniconda3/bin:/home/natemcafee/.cargo/bin:/home/natemcafee/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/go/bin:/home/natemcafee/go/bin
+PATH = /home/natemcafee/.local/bin:/home/natemcafee/.cabal/bin:/home/natemcafee/.ghcup/bin:/home/natemcafee/miniconda3/bin:/home/natemcafee/.cargo/bin:/home/natemcafee/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/go/bin:/home/natemcafee/go/bin
 # environment
 GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
 # environment
@@ -125,7 +123,7 @@ XDG_SESSION_DESKTOP = ubuntu
 # environment
 SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 79783
+GIO_LAUNCHED_DESKTOP_FILE_PID = 88942
 # automatic
 %F = $(notdir $%)
 # environment
@@ -135,7 +133,7 @@ VSCODE_PIPE_LOGGING = true
 # environment
 SNAP_INSTANCE_KEY = 
 # environment
-PWD = /home/natemcafee/AI_EXE_RS
+PWD = /home/natemcafee/AI_EXE_RS/AI_EXE
 # default
 .LOADED := 
 # environment
@@ -145,7 +143,7 @@ ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
 # environment
 GTK_MODULES = gail:atk-bridge
 # environment
-GOMODCACHE = /home/natemcafee/go/pkg/mod
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 HOME = /home/natemcafee
 # environment
@@ -189,7 +187,7 @@ SHLVL = 0
 # environment
 GNOME_SHELL_SESSION_MODE = ubuntu
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-b50801bc-ef2d-4776-9ae5-157f0221ff70.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-44f8faff-730f-4ce2-b2ae-7824a3ae4792.sock
 # default
 MAKE_VERSION := 4.2.1
 # environment
@@ -259,9 +257,9 @@ GJS_DEBUG_OUTPUT = stderr
 # environment
 LANG = C
 # environment
-VSCODE_PID = 79835
+VSCODE_PID = 88988
 # variable set hash-table stats:
-# Load=124/1024=12%, Rehash=0, Collisions=19/146=13%
+# Load=123/1024=12%, Rehash=0, Collisions=18/145=12%
 
 # Pattern-specific Variable Values
 
@@ -269,9 +267,9 @@ VSCODE_PID = 79835
 
 # Directories
 
-# . (device 2050, inode 17170904): 14 files, no impossibilities.
+# . (device 2050, inode 17175827): 17 files, no impossibilities.
 
-# 14 files, no impossibilities in 1 directories.
+# 17 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -280,9 +278,9 @@ VSCODE_PID = 79835
 # Files
 
 # Not a target:
- 
 all:
 #  Command line target.
+ 
 #  Implicit rule search has been done.
 #  File does not exist.
 #  File has not been updated.
@@ -322,12 +320,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 22 / storage = 226 B / avg = 10 B
-# current buf: size = 8162 B / used = 226 B / count = 22 / avg = 10 B
+# strcache buffers: 1 (0) / strings = 25 / storage = 251 B / avg = 10 B
+# current buf: size = 8162 B / used = 251 B / count = 25 / avg = 10 B
 
-# strcache performance: lookups = 25 / hit rate = 12%
+# strcache performance: lookups = 28 / hit rate = 10%
 # hash-table stats:
-# Load=22/8192=0%, Rehash=0, Collisions=1/25=4%
-# Finished Make data base on Mon May 30 14:24:39 2022
+# Load=25/8192=0%, Rehash=0, Collisions=1/28=4%
+# Finished Make data base on Mon May 30 22:39:24 2022
 
  
