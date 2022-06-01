@@ -1,6 +1,6 @@
 {
     "ProjectName": "AlphNull_1",
-    "ProjectKind": "Basic-Conv",
+    "ProjectKind": "NEAT_EXE",
     "ProjectFolder": "AlphNull_1",
     "ProjectActionFiles": ["action.neat.create.layout.json"]
 }

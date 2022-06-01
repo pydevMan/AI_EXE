@@ -2,6 +2,7 @@ package command
 
 import (
 	"ai_exe/command/basicconvmake"
+	"ai_exe/command/neatmake"
 	"encoding/json"
 	"io/ioutil"
 )
@@ -31,6 +32,8 @@ func handleJsonNew(filename string) {
 	switch initStruct.ProjectKind {
 	case "Basic-Conv":
 		basicconvmake.MakeBasicConv(initStruct.ProjectActionFiles, initStruct.ProjectName, initStruct.ProjectFolder)
+	case "NEAT_EXE":
+		neatmake.MakeNeat(initStruct.ProjectActionFiles, initStruct.ProjectName, initStruct.ProjectFolder)
 	default:
 		return
 	}
