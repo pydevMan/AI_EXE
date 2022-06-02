@@ -1,3 +1,0 @@
-/home/natemcafee/AI_EXE_RS/AI_EXE/gui/build/CMakeFiles/edit_cache.dir
-/home/natemcafee/AI_EXE_RS/AI_EXE/gui/build/CMakeFiles/rebuild_cache.dir
-/home/natemcafee/AI_EXE_RS/AI_EXE/gui/build/CMakeFiles/AI_EXE_GUI.dir
